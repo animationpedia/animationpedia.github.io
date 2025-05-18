@@ -1,7 +1,4 @@
 <html>
-<head><title>Animation Pedia
-</title>
-</head>
 
 <body style="background-color:beige">
 
